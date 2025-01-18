@@ -1,12 +1,12 @@
 [
-    {
-        "name": "Executor1",
-        "file": "executor1.zip",
-        "description": "Feature-rich executor."
-    },
-    {
-        "name": "Executor2",
-        "file": "executor2.zip",
-        "description": "Lightweight and fast."
-    }
+  {
+    "name": "Executor1",
+    "file": "executor1.exe",
+    "download_url": "https://example.com/path-to-executor1.exe"
+  },
+  {
+    "name": "Executor2",
+    "file": "executor2.exe",
+    "download_url": "https://example.com/path-to-executor2.exe"
+  }
 ]
